@@ -348,11 +348,33 @@ Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15 và Nghị định 356
 ---
 
 ## Phụ lục C. Minh họa giao diện đề xuất
-- **Màn hình 1 – Hôm nay:** Một tour, thời gian cập nhật, lịch trình và ba hành động chính; phù hợp thao tác một tay.
-- **Màn hình 2 – Điểm danh:** Danh sách theo mã khách; biết ngay ai chưa xác nhận thay vì chỉ đếm tổng số.
-- **Màn hình 3 – Cập nhật và trạng thái:** Đổi giờ có phiên bản; trạng thái của từng đối tác không bị nhầm thành “đã gửi thành công”.
-- **Màn hình 4 – Sự cố:** Ghi loại, ghi chú, ưu tiên; bản ghi lưu cục bộ trước, chia sẻ Zalo là bước riêng.
-- **Màn hình 5 – Trang web theo vai trò:** Lái xe chỉ xem giờ và điểm đón mới nhất, có xác nhận theo token, không thấy danh sách khách.
+Các màn hình dưới đây là concept dành cho ứng dụng Android và liên kết web theo vai trò, nhằm trình bày trải nghiệm sản phẩm. Chúng không phải giao diện đã lập trình, dữ liệu tour và nhân sự đều là minh họa giả lập.
+
+### Màn hình 1 – Hôm nay
+Một tour, thời gian cập nhật, lịch trình và ba hành động chính; phù hợp thao tác một tay.
+
+![Màn hình 1 – Hôm nay](images/tourday/image1.png)
+
+### Màn hình 2 – Điểm danh
+Danh sách theo mã khách; biết ngay ai chưa xác nhận thay vì chỉ đếm tổng số.
+
+![Màn hình 2 – Điểm danh](images/tourday/image2.png)
+
+### Màn hình 3 – Cập nhật và trạng thái
+Đổi giờ có phiên bản; trạng thái của từng đối tác không bị nhầm thành “đã gửi thành công”.
+
+![Màn hình 3 – Cập nhật và trạng thái](images/tourday/image3.png)
+
+### Màn hình 4 – Sự cố
+Ghi loại, ghi chú, ưu tiên; bản ghi lưu cục bộ trước, chia sẻ Zalo là bước riêng.
+
+![Màn hình 4 – Sự cố](images/tourday/image4.png)
+
+### Màn hình 5 – Trang web theo vai trò
+Lái xe chỉ xem giờ và điểm đón mới nhất, có xác nhận theo token, không thấy danh sách khách.
+
+![Màn hình 5 – Trang web theo vai trò](images/tourday/image5.png)
+
 
 ---
 

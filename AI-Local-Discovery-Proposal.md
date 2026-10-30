@@ -504,7 +504,29 @@ Phần này bổ sung các hình ảnh UI mockup nhằm minh hoạ hướng thi�
 | Các nguyên tắc thiết kế được minh hoạ: one-tap experience, one-card recommendation, phân biệt nguồn/giá, nút “Chọn địa điểm khác”, điều hướng rõ ràng và hỗ trợ lưu – lịch sử để cá nhân hoá. |
 | :--- |
 
-- **Màn hình 1 – Trang chủ:** Người dùng chọn nhanh hai chế độ “Ăn uống” và “Khám phá”, có chip ngữ cảnh và phần gợi ý gần đây.
-- **Màn hình 2 – Gợi ý ăn uống:** Hiển thị một nhà hàng được đề xuất, kèm giá tham khảo, hành động chỉ đường/lưu và nút “Chọn địa điểm khác”.
-- **Màn hình 3 – Gợi ý khám phá:** Đề xuất điểm vui chơi hoặc trải nghiệm mới, kèm lý do AI chọn và trạng thái giá/nguồn dữ liệu.
-- **Màn hình 4 – Đã lưu & Lịch sử:** Quản lý địa điểm đã lưu, lịch sử xem/chọn/bỏ qua và hỗ trợ cá nhân hoá gợi ý trong các lần sử dụng tiếp theo.
+### Màn hình 1 – Trang chủ
+Minh hoạ màn hình chính của ứng dụng native: người dùng chọn nhanh hai chế độ “Ăn uống” và “Khám phá”, có chip ngữ cảnh và phần gợi ý gần đây.
+
+![Màn hình 1 – Trang chủ](images/ai-local-discovery/image1.png)
+
+### Màn hình 2 – Gợi ý ăn uống
+Minh hoạ luồng “Ăn uống”: hiển thị một nhà hàng được đề xuất, kèm giá tham khảo, hành động chỉ đường/lưu và nút “Chọn địa điểm khác”.
+
+![Màn hình 2 – Gợi ý ăn uống](images/ai-local-discovery/image2.png)
+
+### Màn hình 3 – Gợi ý khám phá
+Minh hoạ luồng “Khám phá”: đề xuất điểm vui chơi hoặc trải nghiệm mới, kèm lý do AI chọn và trạng thái giá/nguồn dữ liệu.
+
+![Màn hình 3 – Gợi ý khám phá](images/ai-local-discovery/image3.png)
+
+### Màn hình 4 – Đã lưu & Lịch sử
+Minh hoạ chức năng hậu tương tác: quản lý địa điểm đã lưu, lịch sử xem/chọn/bỏ qua và hỗ trợ cá nhân hoá gợi ý trong các lần sử dụng tiếp theo.
+
+![Màn hình 4 – Đã lưu & Lịch sử](images/ai-local-discovery/image4.png)
+
+### Gợi ý sử dụng phần UI trong buổi thuyết trình
+- **Màn hình Trang chủ:** dùng để giải thích triết lý “một chạm, một quyết định”.
+- **Màn hình Ăn uống và Khám phá:** dùng để minh hoạ cách AI hỗ trợ chọn địa điểm mà không biến sản phẩm thành chatbot.
+- **Màn hình Đã lưu & Lịch sử:** giúp chứng minh khả năng giữ ngữ cảnh người dùng và cải thiện chất lượng gợi ý theo thời gian.
+- Khi trình bày, nên nhấn mạnh đây là UI concept nhằm hỗ trợ hình dung sản phẩm; tính khả thi và giá trị dự án vẫn phụ thuộc vào dữ liệu, điều khoản nguồn dữ liệu và chất lượng xếp hạng.
+
